@@ -1,5 +1,6 @@
 ### Hi there 👋
-나는
+Hello, I am SeokYoung Kim who is studying in Computer Science from Korea.
+and I'll record my study. from that, you can obtain several knowledge.
 <!--
 **ksyoung0310/ksyoung0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
