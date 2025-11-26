@@ -5,7 +5,7 @@
 </h3>
 
 📚 Languages / Library / Tools 📚
-  
+  
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
@@ -20,5 +20,10 @@
 <a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksyoung0310&show_icons=true&theme=tokyonight&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyoung0310&layout=compact&theme=tokyonight&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
