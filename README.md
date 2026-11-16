@@ -25,7 +25,5 @@
   <img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=Confluence&logoColor=172B4D"/></p>
   
 #
-[![KSY's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksyoung0310)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyoung0310&layout=compact&theme=tokyonight)
 
 </div>
