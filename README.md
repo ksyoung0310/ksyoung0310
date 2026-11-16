@@ -1,6 +1,6 @@
 <div align="center">
 <h3>🍀 Me 🍀</h3>
-<p>Hi There! I'm a Embedded developer.</p>
+<p>Hi There! I'm a Robot developer.</p>
 <p> My main skills are C, C++</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
   
